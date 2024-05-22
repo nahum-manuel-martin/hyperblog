@@ -1,0 +1,5 @@
+{
+    "CodeGPT.apiKey": "Ollama",
+    "ollama-autocoder.endpoint": "http://localhost:11434/api/generate",
+    "ollama-autocoder.model": "codegemma:latest"
+}
